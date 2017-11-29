@@ -204,4 +204,8 @@ $_pageTitle = $_page->getTitle();
 ```
 
 Enjoy! ;-)
+
 https://stackoverflow.com/questions/25302576/magento-how-to-add-extra-fields-for-static-block
+http://www.webspeaks.in/2013/05/how-to-add-date-picker-in-magento-config-page.html
+https://stackoverflow.com/questions/3660842/add-a-date-picker-to-system-xml-on-custom-module
+
