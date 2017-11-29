@@ -204,4 +204,4 @@ $_pageTitle = $_page->getTitle();
 ```
 
 Enjoy! ;-)
-
+https://stackoverflow.com/questions/25302576/magento-how-to-add-extra-fields-for-static-block
